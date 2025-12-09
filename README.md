@@ -115,18 +115,3 @@ Hi! I'm **Mohamed Ahmed Abd El-Kawy**, a passionate software developer and techn
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedAbdEl-Kawy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedAbdEl-Kawy&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedAbdEl-Kawy&layout=compact&theme=tokyonight" />
-</p>
